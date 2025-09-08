@@ -1,0 +1,14 @@
+# Drone Classroom Tour Simulation Dependencies
+
+# Core simulation requirements
+pybullet>=3.2.5
+numpy>=1.21.0
+
+# Optional: For video processing/recording
+opencv-python>=4.5.0
+imageio>=2.9.0
+matplotlib>=3.5.0
+
+# Development dependencies (optional)
+pytest>=6.0.0
+black>=22.0.0
